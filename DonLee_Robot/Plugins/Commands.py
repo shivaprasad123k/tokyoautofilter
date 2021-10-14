@@ -52,14 +52,12 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('👨‍💻 DEV 👨‍💻', url='https://t.me/OGGY123kph'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/PR0FESS0R-99/DonLee_Robot')
+        InlineKeyboardButton('👨‍💻  DEV  👨‍💻', url='https://t.me/OGGY123kph'),
+        InlineKeyboardButton('🍁 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 🍁', url ='https://youtu.be/X9rEXM3kAHg')
     ],[
-        InlineKeyboardButton('🛠 Support 🔥', url='https://t.me/mo_tech_yt')
+        InlineKeyboardButton('💘  𝗚𝗥𝗢𝗨𝗣  💘', url='https://t.me/moviehubgroupp') 
     ],[
-        InlineKeyboardButton('⚙ Help ⚙', callback_data="help")
-    ],[
-        InlineKeyboardButton('💫 Deploy Video 🔥💫', url='https://youtu.be/uAHl5jvnrhk')
+        InlineKeyboardButton('🚀 𝗖𝗛𝗔𝗡𝗘𝗟 🚀', url='https://t.me/moviehubcinema')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
