@@ -58,7 +58,9 @@ async def start(bot, update):
         InlineKeyboardButton('💘  𝗚𝗥𝗢𝗨𝗣  💘', url='https://t.me/moviehubgroupp') 
     ],[
         InlineKeyboardButton('🚀 𝗖𝗛𝗔𝗡𝗘𝗟 🚀', url='https://t.me/moviehubcinema')
-    ]]
+   ],[
+        InlineKeyboardButton('➕ 𝗔𝗗𝗗 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 ➕', url='https://t.me/{@tokyoautofilterv2bot}?startgroup=true')
+   ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
