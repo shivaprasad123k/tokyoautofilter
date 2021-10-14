@@ -55,11 +55,11 @@ async def start(bot, update):
         InlineKeyboardButton('👨‍💻 DEV 👨‍💻', url='https://t.me/OGGY123kph'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/PR0FESS0R-99/DonLee_Robot')
     ],[
-        InlineKeyboardButton('🛠 Support 🛠', url='https://t.me/mo_tech_yt')
+        InlineKeyboardButton('🛠 Support 🔥', url='https://t.me/mo_tech_yt')
     ],[
         InlineKeyboardButton('⚙ Help ⚙', callback_data="help")
     ],[
-        InlineKeyboardButton('💫 Deploy Video 💫', url='https://youtu.be/uAHl5jvnrhk')
+        InlineKeyboardButton('💫 Deploy Video 🔥💫', url='https://youtu.be/uAHl5jvnrhk')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
