@@ -53,11 +53,11 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('👨‍💻  DEV  👨‍💻', url='https://t.me/OGGY123kph'),
-        InlineKeyboardButton('🍁 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 🍁', url ='https://youtu.be/X9rEXM3kAHg')
+        InlineKeyboardButton('🍁 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 🍁', url ='https://t.me/malayalam_rocker_s')
     ],[
-        InlineKeyboardButton('💘  𝗚𝗥𝗢𝗨𝗣  💘', url='https://t.me/moviehubgroupp') 
+        InlineKeyboardButton('💘  𝗚𝗥𝗢𝗨𝗣  💘', url='https://t.me/malayalam_rocker_s') 
     ],[
-        InlineKeyboardButton('🚀 𝗖𝗛𝗔𝗡𝗘𝗟 🚀', url='https://t.me/moviehubcinema')
+        InlineKeyboardButton('🚀 𝗖𝗛𝗔𝗡𝗘𝗟 🚀', url='https://t.me/joinchat/RPcs_j1LgXZiODc1')
    ],[
         InlineKeyboardButton('➕ 𝗔𝗗𝗗 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 ➕', url='https://t.me/tokyoautofilterv2bot?startgroup=true')
    ]]
