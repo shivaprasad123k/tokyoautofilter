@@ -4,13 +4,14 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
-<b>Am Just A Donlee Adv Auto Filter Bot....😉</b>
+    START_TEXT = """<b>ʜᴇʟʟᴏ {}!!</b>
+<b>ᴍʏ ɴᴀᴍᴇ ɪs ᴛᴏᴋʏᴏ ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ɪɴ ɢʀᴏᴜᴘs</b>
 
-<b>Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝</b>
-<b>Watch the video below to build an DonLee Adv Autofilter bot like me...</b>
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
-<b>Press /help to know about available commands🤪</b>"""    
+<b>ɪᴛs ᴠᴇʀʏ ᴇᴀsʏ.</b>
+<b>ᴊᴜsᴛ ᴀᴅᴅ ᴛᴏ ᴍᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ</b>
+<b>ᴛʜᴀᴛs ᴀʟʟ. ɪ'ʟʟ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ᴛʜᴇʀᴇ 😌</b>
+<b>➖➖➖➖➖➖➖➖➖➖➖➖
+    ᴅᴇᴠᴇʟᴏᴘᴇʀ : [𝒔𝒉𝒊𝒗𝒂](https://t.me/OGGY123kph)</b>"""    
    
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
@@ -47,11 +48,11 @@ class Translation(object):
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/Mrk_YT">Muhammed Rk</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/OGGY123kph">𝒔𝒉𝒊𝒗𝒂 🤴</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/PR0FESS0R-99/DonLee_Robot">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://t.me/OGGY123kph">𝑪𝒍𝒊𝒄𝒌 𝒉𝒆𝒓𝒆</a></i>
 """
