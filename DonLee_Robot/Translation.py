@@ -11,7 +11,7 @@ class Translation(object):
 <b>ᴊᴜsᴛ ᴀᴅᴅ ᴛᴏ ᴍᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ</b>
 <b>ᴛʜᴀᴛs ᴀʟʟ. ɪ'ʟʟ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ᴛʜᴇʀᴇ 😌</b>
 <b>➖➖➖➖➖➖➖➖➖➖➖➖
-    ᴅᴇᴠᴇʟᴏᴘᴇʀ : [𝒔𝒉𝒊𝒗𝒂](https://t.me/OGGY123kph)</b>"""    
+    ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href="t.me/OGGY123kph">𝑺𝒉𝒊𝒗𝒂 🕊️</a> </b>"""    
    
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
